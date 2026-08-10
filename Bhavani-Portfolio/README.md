@@ -1,47 +1,154 @@
-# Bhavani Kanneboina — Personal Portfolio
+Bhavani Kanneboina — Personal Portfolio
+📌 OASIS INFOBYTE Internship — Web Development & Designing
+Task: Level 1 — Task 1: Landing Page Project: Personal Portfolio Website Author: Bhavani Kanneboina
 
-A responsive personal portfolio / landing page created for the OASIS INFOBYTE Web Development & Designing internship — Level 1, Task 1.
+🌐 Project Overview
+This project is a responsive personal portfolio website designed to present my professional profile, technical skills, projects, educational background, experience, and contact information in a clean and modern interface.
 
-## Features
-- Responsive navigation
-- Hero section with developer introduction
-- About section
-- Skills showcase
-- Project portfolio
-- Experience / journey timeline
-- Contact section
-- Scroll reveal animations
-- Mobile navigation
-- Reading progress indicator
-- Back-to-top button
-- Responsive desktop/tablet/mobile layout
+The website was developed as part of the OASIS INFOBYTE Web Development & Designing Internship — Level 1, Task 1.
 
-## Tech Stack
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- Google Fonts
+The portfolio is designed to provide recruiters and visitors with a quick overview of my technical background and projects.
 
-## Folder Structure
-```text
+🎯 Objectives
+Create a professional personal portfolio website.
+Demonstrate front-end web development skills.
+Practice responsive webpage design.
+Present technical skills and projects clearly.
+Create an easy-to-navigate user experience.
+Build a portfolio that can be used for future internship and job applications.
+✨ Features
+📱 Fully responsive design
+🧭 Responsive navigation bar
+👋 Professional hero/introduction section
+👩‍💻 About Me section
+🛠️ Technical Skills section
+🚀 Projects showcase
+📚 Education and learning journey
+💼 Experience section
+📩 Contact section
+🔗 Social media links
+✨ Smooth scrolling and animations
+📊 Scroll progress indicator
+⬆️ Back-to-top button
+📱 Mobile-friendly navigation
+🛠️ Technologies Used
+HTML5 — Website structure
+CSS3 — Styling, layout and responsive design
+JavaScript — Interactions and animations
+Google Fonts — Typography
+📂 Project Structure
 WebDev-L1-LandingPage/
+│
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
+│
 └── assets/
-```
+    └── images/
+👩‍💻 About Me
+I am a Computer Science and Engineering student specializing in Cyber Security, with an interest in software development, web technologies, problem solving, and secure application development.
 
-## Run Locally
-Open `index.html` in a browser, or use the VS Code Live Server extension.
+I enjoy learning new technologies and applying my knowledge by building practical projects.
 
-## Before Publishing
-Replace:
-- `your-email@example.com` with your actual email
-- LinkedIn URL with your profile
-- GitHub URL with your profile
-- Project links if you have individual repositories
-- Any placeholder/inaccurate experience details
+💻 Skills
+Programming Languages
+Java
+Python
+C
+C++
+JavaScript
+Web Development
+HTML
+CSS
+JavaScript
+React.js
+Node.js
+Express.js
+Flask
+Databases
+MySQL
+PostgreSQL
+SQLite
+Cyber Security
+Network Security
+Ethical Hacking
+Digital Forensics
+Tools & Technologies
+Git
+GitHub
+VS Code
+Linux
+OpenCV
+NumPy
+Pandas
+🚀 Projects
+1. AI Virtual Mouse
+A computer-vision-based project that uses hand gesture recognition to control mouse operations.
 
-## Live Demo
-Add your Netlify URL here.
+Technologies: Python, OpenCV, Computer Vision
+
+2. PublicEduChain
+A blockchain-based academic credential verification concept designed to make educational certificates easier to verify and harder to tamper with.
+
+Technologies: Blockchain, Solidity, IPFS
+
+3. ShopKart
+A full-stack e-commerce application designed with a modern frontend and backend architecture.
+
+Technologies: React.js, Node.js, Express.js, MySQL
+
+4. Personal Portfolio
+A responsive portfolio website created to showcase my skills, projects, education, experience, and professional profile.
+
+Technologies: HTML, CSS, JavaScript
+
+📱 Responsive Design
+The website is designed to work across different screen sizes:
+
+💻 Desktop
+💻 Laptop
+📱 Tablet
+📱 Mobile
+▶️ How to Run Locally
+1. Clone the repository
+git clone YOUR_GITHUB_REPOSITORY_URL
+2. Open the project
+cd WebDev-L1-LandingPage
+3. Run the website
+Open index.html directly in a browser or use Live Server in Visual Studio Code.
+
+🌐 Live Demo
+Netlify: YOUR_NETLIFY_URL
+
+Replace YOUR_NETLIFY_URL with your actual deployed portfolio URL.
+
+📸 Screenshots
+Add screenshots of the following sections to the screenshots/ folder:
+
+screenshots/
+├── home.png
+├── about.png
+├── skills.png
+├── projects.png
+└── contact.png
+Then add them to this README if desired.
+
+🎓 Internship Information
+This project was developed as part of the:
+
+OASIS INFOBYTE Web Development & Designing Internship
+
+Level: 1 Task: 1 — Landing Page
+
+👤 Author
+Bhavani Kanneboina
+
+Computer Science & Engineering — Cyber Security
+
+Connect With Me
+LinkedIn: https://www.linkedin.com/in/bhavani-kanneboina-/
+GitHub: https://github.com/bunnykanneboina
+Email: bhavanikanneboina08@gmail.com
+📄 License
+This project was created for educational and internship purposes.
